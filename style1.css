@@ -1,0 +1,50 @@
+/*
+	This is the style sheet for my Assignment 2 webpages
+*/
+
+
+h1 {
+  font-family: "league-script-no-1";
+  }
+
+body
+{
+	font-size:1.5em;
+	text-align: left;
+	color: #003166;	
+	text-indent: 50px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
+
+/*
+	This id will only be present on one webpage of mine. 
+*/
+#firstparagraph
+{
+	font-size:1.5em;
+	color:#310e59;
+	background-color:#ffccff;
+	text-align: right;
+	text-transform:uppercase;
+	
+}
+
+/*
+	This box should appear with a light blue background
+*/
+.importantbox
+{
+	font-size: 18px;
+	width: 50%;
+	margin: 30px;
+	padding: 10px;
+	background-color:#99bbff;
+	float: left;
+	color: #0c012f;
+	border-style: solid;
+	border-width: 5px;
+	
+}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EctynXELdvM?rel=0" 	frameborder="0" allowfullscreen></iframe>
+
